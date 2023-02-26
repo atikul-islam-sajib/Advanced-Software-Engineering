@@ -16,3 +16,4 @@ textstat
 gensim
 stop_words
 tqdm
+tensorflow
