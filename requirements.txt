@@ -17,3 +17,4 @@ stop_words
 tqdm
 tensorflow
 seaborn
+flask
