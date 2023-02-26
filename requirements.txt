@@ -2,7 +2,7 @@
 # `pip install -r requirements.txt` before you can run this.
 
 #### ESSENTIAL LIBRARIES FOR MAIN FUNCTIONALITY ####
-
+python==3.10
 numpy
 matplotlib
 pandas
