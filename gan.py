@@ -48,7 +48,7 @@ class Discriminator(nn.Module):
 # Hyperparameters
 batch_size = 64
 lr = 0.0002
-num_epochs = 20
+num_epochs = 1
 latent_size = 100
 
 # Data loading
@@ -69,7 +69,7 @@ criterion = nn.BCELoss()
 optimizer_g = optim.Adam(generator.parameters(), lr=lr)
 optimizer_d = optim.Adam(discriminator.parameters(), lr=lr)
 
-mlflow.set_experiment("GAN model - MNIST-final")
+mlflow.set_experiment("GAN model - MNIST-final-1")
 
 mlflow.set_tracking_uri("https://dagshub.com/atikul-islam-sajib/Advanced-Software-Engineering.mlflow")
 
