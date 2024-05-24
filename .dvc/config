@@ -1,0 +1,14 @@
+[core]
+    remote = myremote6
+['remote "origin"']
+    url = https://drive.google.com/drive/folders/1bJ4CUqYlxpmsyw5YLHu4qRejLnIYI11n
+['remote "myremote"']
+    url = https://drive.google.com/drive/folders/1bJ4CUqYlxpmsyw5YLHu4qRejLnIYI11n
+['remote "myremote1"']
+    url = https://bitbucket.org/sajib011/dvc-practise/src/main/
+['remote "myremote2"']
+    url = https://sajib011-admin@bitbucket.org/sajib011/dvc-practise.git
+['remote "myremote5"']
+    url = https://bitbucket.org/sajib011/dvc-practise/src/main/
+['remote "myremote6"']
+    url = ../bitbucket.org/sajib011/dvc-practise/src/main

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/atiku/OneDrive/Desktop/DVC/Advanced-Software-Engineering/mlruns/622653559229838366/613215d9c2464d6ba3d04e35f26ffeec/artifacts
+end_time: 1716588869131
+entry_point_name: ''
+experiment_id: '622653559229838366'
+lifecycle_stage: active
+run_id: 613215d9c2464d6ba3d04e35f26ffeec
+run_name: stately-bird-915
+run_uuid: 613215d9c2464d6ba3d04e35f26ffeec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716588072066
+status: 3
+tags: []
+user_id: atiku

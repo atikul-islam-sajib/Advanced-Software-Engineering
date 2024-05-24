@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/atiku/OneDrive/Desktop/DVC/Advanced-Software-Engineering/mlruns/751528796713646877/b930159bebd44c7c80ecf55175235056/artifacts
+end_time: 1716585567672
+entry_point_name: ''
+experiment_id: '751528796713646877'
+lifecycle_stage: active
+run_id: b930159bebd44c7c80ecf55175235056
+run_name: skittish-duck-225
+run_uuid: b930159bebd44c7c80ecf55175235056
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716585534362
+status: 3
+tags: []
+user_id: atiku

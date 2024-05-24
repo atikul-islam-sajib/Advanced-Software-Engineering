@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/atiku/OneDrive/Desktop/DVC/Advanced-Software-Engineering/mlruns/622653559229838366/390da34f96d34398a751bcd72419d0ee/artifacts
+end_time: 1716587639746
+entry_point_name: ''
+experiment_id: '622653559229838366'
+lifecycle_stage: active
+run_id: 390da34f96d34398a751bcd72419d0ee
+run_name: omniscient-owl-819
+run_uuid: 390da34f96d34398a751bcd72419d0ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716587596113
+status: 4
+tags: []
+user_id: atiku

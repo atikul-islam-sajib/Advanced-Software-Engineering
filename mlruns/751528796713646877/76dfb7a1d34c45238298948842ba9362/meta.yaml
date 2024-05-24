@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/atiku/OneDrive/Desktop/DVC/Advanced-Software-Engineering/mlruns/751528796713646877/76dfb7a1d34c45238298948842ba9362/artifacts
+end_time: 1716586215973
+entry_point_name: ''
+experiment_id: '751528796713646877'
+lifecycle_stage: active
+run_id: 76dfb7a1d34c45238298948842ba9362
+run_name: clean-hog-401
+run_uuid: 76dfb7a1d34c45238298948842ba9362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716586187028
+status: 4
+tags: []
+user_id: atiku

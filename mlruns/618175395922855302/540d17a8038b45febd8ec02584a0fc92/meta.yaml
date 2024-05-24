@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/atiku/OneDrive/Desktop/DVC/Advanced-Software-Engineering/mlruns/618175395922855302/540d17a8038b45febd8ec02584a0fc92/artifacts
+end_time: 1716586589645
+entry_point_name: ''
+experiment_id: '618175395922855302'
+lifecycle_stage: active
+run_id: 540d17a8038b45febd8ec02584a0fc92
+run_name: tasteful-squid-96
+run_uuid: 540d17a8038b45febd8ec02584a0fc92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716586336828
+status: 3
+tags: []
+user_id: atiku
