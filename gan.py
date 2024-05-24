@@ -44,6 +44,7 @@ class Discriminator(nn.Module):
     def forward(self, x):
         return self.net(x)
 
+
 # Hyperparameters
 batch_size = 64
 lr = 0.0002
@@ -69,6 +70,8 @@ optimizer_g = optim.Adam(generator.parameters(), lr=lr)
 optimizer_d = optim.Adam(discriminator.parameters(), lr=lr)
 
 mlflow.set_experiment("GAN model - MNIST-final")
+
+mlflow.set_tracking_uri("https://dagshub.com/atikul-islam-sajib/Advanced-Software-Engineering.mlflow")
 
 with mlflow.start_run() as run:
     # Training loop
