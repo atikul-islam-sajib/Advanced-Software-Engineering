@@ -71,7 +71,8 @@ optimizer_d = optim.Adam(discriminator.parameters(), lr=lr)
 
 mlflow.set_experiment("GAN model - MNIST-final-1")
 
-mlflow.set_tracking_uri("https://dagshub.com/atikul-islam-sajib/Advanced-Software-Engineering.mlflow")
+import dagshub
+dagshub.init(repo_owner='atikul-islam-sajib', repo_name='Advanced-Software-Engineering', mlflow=True)
 
 with mlflow.start_run() as run:
     # Training loop
